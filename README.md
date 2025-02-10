@@ -66,8 +66,4 @@ data(): Fetches all user data from the database.
 clrall(): Deletes all user data from the database.
 spc(username): Deletes a specific user from the database based on the username.
 display(): Displays the user data in a GUI window and provides options to delete data.
-Contributing
-Feel free to fork this repository and submit pull requests with improvements or new features. Contributions are always welcome!
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-You can save this content to a file named README.md in the root directory of your project. This will provide users with a clear understanding of how to use your user registration and database management system and the structure of your code.
+
